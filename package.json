@@ -1,0 +1,23 @@
+{
+  "name": "agentic-playwright-framework",
+  "version": "1.0.0",
+  "description": "An agentic AI-powered test automation framework built with Playwright &amp; TypeScript, featuring self-healing locators, semantic search, and intelligent reporting.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyahariprasad12-lab/agentic-playwright-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/satyahariprasad12-lab/agentic-playwright-framework/issues"
+  },
+  "homepage": "https://github.com/satyahariprasad12-lab/agentic-playwright-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1",
+    "@types/node": "^25.1.0"
+  }
+}
