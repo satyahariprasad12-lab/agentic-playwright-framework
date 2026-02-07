@@ -18,6 +18,11 @@
   "homepage": "https://github.com/satyahariprasad12-lab/agentic-playwright-framework#readme",
   "devDependencies": {
     "@playwright/test": "^1.58.1",
-    "@types/node": "^25.1.0"
+    "@types/node": "^25.1.0",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.4",
+    "node-fetch": "^3.3.2"
   }
 }
